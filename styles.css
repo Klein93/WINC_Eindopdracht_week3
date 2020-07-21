@@ -1,0 +1,7 @@
+.lined {
+    text-decoration: line-through;
+};
+
+.taskflex {
+    display: flex;
+};
